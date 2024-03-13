@@ -1,0 +1,11 @@
+- UC 얼바인 머신러닝 저장소 : http://archive.ics.uci.edu/ml/
+- kaggle 데이터셋 : http://www.kaggle.com/datasets
+- 아마존 AWS 데이터셋 : http://aws.amazon.com/ko/datasets
+- 메타 포털
+    1. http://dataportals.org
+    2. http://opendatamonitor.eu/
+    3. http://quandl.com
+- 인기있는 공개 데이터 저장소가 나열되어 있는 다른 체이지
+    1. 위키백과 머신러닝 데이터셋 목록 : http://goo.gl/SJHN2k
+    2. Quora.com 질문 : http://goo.gl/zDR78y
+    3. 데이터셋 서브레딧 : http://www.reddit.com/r/datasets
